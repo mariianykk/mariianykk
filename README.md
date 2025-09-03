@@ -10,7 +10,7 @@
  ღ🐾 Apaixonada por medicina veterinária 
 
  ## 🍓 Curiosidades
- ღ Amo sorvete de flocoa 🍦 
+ ღ Amo sorvete de flocos 🍦 
 
 ღ Sempre tenho uma playlist para cada coisa que faço 🎧  
 
