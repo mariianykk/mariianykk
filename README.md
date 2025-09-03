@@ -1,4 +1,7 @@
 ## I´m Mariany 😒
+<img width="220" height="126" alt="image" src="https://github.com/user-attachments/assets/2230f32c-1c29-4506-b021-6a7e6e86f688" />
+
+
  ღ  Sobre mim 🐱: Meu nome é Mariany, tenho 18 anos e sou uma pessoa extremamente estressada e gosto de tudo do meu jeito, sou completamente apaixonada por animais 😘
 
  ღ 🎯 Objetivo: construir meus primeiros projetos e compartilhar no GitHub.
