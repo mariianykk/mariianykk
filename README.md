@@ -35,6 +35,13 @@
 
  ღ 🎤 Cantor: Orochi 
 
+ ##  🖥️ Tecnologias Utilizadas
+ ღ 📝 HTML
+ 
+ ღ 📝 JavaScript
+
+ ღ 📝 CSS
+
 
 <!--
 **mariianykk/mariianykk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
